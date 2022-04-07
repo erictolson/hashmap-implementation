@@ -1,5 +1,4 @@
 # Course: CS261 - Data Structures
-# Assignment: 6
 # Description: 'Helper' data structures
 
 
