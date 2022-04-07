@@ -1,8 +1,4 @@
 # Name: Eric Tolson
-# OSU Email: tolsone@oregonstate.edu
-# Course: CS261 - Data Structures
-# Assignment: 6
-# Due Date: 3/11/22
 # Description: Hash Map with Open Addressing
 
 
